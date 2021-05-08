@@ -1,3 +1,5 @@
+> # Moved to https://github.com/info-mono/pathshortener
+
 <h1 align="center"><code>pathshortener</code></h1>
 <p align="center">File system's path shortener</p>
 <p align="center"><a href="https://github.com/NNBnh/pathshortener/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/pathshortener?labelColor=073551&color=4EAA25&style=for-the-badge" alt="License: GPL-3.0"></a> <img src="https://img.shields.io/badge/development-completed-%234EAA25.svg?labelColor=073551&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></p>
